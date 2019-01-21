@@ -1,7 +1,7 @@
 # Pixel-Refining Parallel Mapping Network in the Complex Domain (CRPM-Net)
 
 Tensorflow implementation of CRPM-Net for PolSAR image classification by DongLing Xiao.
-![](img/Fig. 4.png)
+![](img/Fig4.png)
 
 ## Installation
 
@@ -84,9 +84,9 @@ python main.py
 
 ## Classification results
 ### - Flevoland-Netherlands, AIRSAR, L,P,C-Band
-![](img/Fig. 7.png)
+![](img/Fig7.png)
 ### - Benchmark Flevoland AIRSAR, L-Band
-![](img/Fig. 12.png)
+![](img/Fig12.png)
 
 
 

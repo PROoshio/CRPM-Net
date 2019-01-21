@@ -68,18 +68,17 @@ python main.py
 ## Testing
 
 1) test Cs-CNN: in `CRPM_Net.py`, change standard to 1; in `main.py`, chage mode to `test1`
-```
-python main.py
-```
+
 2) test C-Dilated CNN: in `CRPM_Net.py`, change standard to 1; in `main.py`, chage mode to `dilate`
-```
-python main.py
-```
+
 3) testCRPM-Net: in `CRPM_Net.py`, change standard to 2; in `main.py`, chage mode to `test2`
+
 ```
 python main.py
 ```
-4) Test jupyter notebook
+
+4) Test jupyter notebook  [CRPM_Net_flevoland.ipynb](https://github.com/PROoshio/CRPM-Net)
+
 
 
 ## Classification results

@@ -20,8 +20,8 @@ sudo pip install --ignore-installed --upgrade https://storage.googleapis.com/ten
 
 1) use `utils.py` to gain training pixels, the sampling number is required.
 ```
-get_train_data() # get random sampled pixels
-get_sample_npy() # save as *.npy file
+def get_train_data(data_path,label_path,label_path_local) # get random sampled pixels
+get_sample_npy(label_path) # save as *.npy file
 ```
 2) Cs-CNN training step: in `CRPM_Net.py`, change standard to 1; in `main.py`, chage mode to `train`
 ```
@@ -77,7 +77,7 @@ python main.py
 python main.py
 ```
 
-4) Test jupyter notebook  [CRPM_Net_flevoland.ipynb](https://github.com/PROoshio/CRPM-Net)
+4) Test jupyter notebook  [CRPM_Net_flevoland.ipynb](https://github.com/PROoshio/CRPM-Net/blob/master/CRPM_Net_flevoland.ipynb)
 
 
 

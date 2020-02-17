@@ -1,6 +1,6 @@
-# Pixel-Refining Parallel Mapping Network in the Complex Domain (CRPM-Net) Paper ～ [arxiv](https://arxiv.org/abs/1909.10783)
+# Pixel-Refining Parallel Mapping Network in the Complex Domain (CRPM-Net) 
 
-Tensorflow implementation of CRPM-Net for PolSAR image classification by DongLing Xiao.
+Tensorflow implementation of CRPM-Net for PolSAR image classification by DongLing Xiao. Paper at https://arxiv.org/abs/1909.10783 .
 ![](img/Fig4.png)
 
 ## Installation

@@ -1,10 +1,3 @@
->[_**ERNIE-GEN:An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation**_](https://arxiv.org/abs/2001.11314)
->
->Dongling Xiao\*, Han Zhang\*, Yukun Li, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang (\* : equal contribution)
->
->Preprint January 2020
->
->Accepted by **IJCAI-2020**
 # Pixel-Refining Parallel Mapping Network in the Complex Domain (CRPM-Net) 
 
 Tensorflow implementation of CRPM-Net for PolSAR image classification by DongLing Xiao. Paper at https://arxiv.org/abs/1909.10783 .

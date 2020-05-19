@@ -1,6 +1,8 @@
 >[_**ERNIE-GEN:An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation**_](https://arxiv.org/abs/2001.11314.pdf)
 >Dongling Xiao\*, Han Zhang\*, Yukun Li, Yu Sun, Hao Tian, Hua Wu, Haifeng Wang (\* : equal contribution)
+
 >Preprint January 2020
+
 >Accepted by **IJCAI-2020**
 
 ![ERNIE-GEN](https://img.shields.io/badge/Pretraining-Generation-green) ![Gigaword](https://img.shields.io/badge/Abstractive Summarization-Gigaword-yellow) ![Gigaword](https://img.shields.io/badge/Abstractive Summarization-CNN/Daily Mail-blue) ![SQuAD](https://img.shields.io/badge/Question Generation-SQuAD-green) ![Personal-Chat](https://img.shields.io/badge/Dialogue Response-Personal Chat-yellowgreen) ![CoQA](https://img.shields.io/badge/Generative Question Answering-CoQA-orange) 

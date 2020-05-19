@@ -5,7 +5,7 @@
 
 >Accepted by **IJCAI-2020**
 
-![ERNIE-GEN](https://img.shields.io/badge/Pretraining-Generation-green) ![Gigaword](https://img.shields.io/badge/Abstractive Summarization-Gigaword-yellow) ![Gigaword](https://img.shields.io/badge/Abstractive Summarization-CNN/Daily Mail-blue) ![SQuAD](https://img.shields.io/badge/Question Generation-SQuAD-green) ![Personal-Chat](https://img.shields.io/badge/Dialogue Response-Personal Chat-yellowgreen) ![CoQA](https://img.shields.io/badge/Generative Question Answering-CoQA-orange) 
+![ERNIE-GEN](https://img.shields.io/badge/Pretraining-Generation-green) ![Gigaword](https://img.shields.io/badge/Abstractive%20Summarization-Gigaword-yellow) ![Gigaword](https://img.shields.io/badge/Abstractive%20Summarization-CNN/Daily%20Mail-blue) ![SQuAD](https://img.shields.io/badge/Question%20Generation-SQuAD-green) ![Personal-Chat](https://img.shields.io/badge/Dialogue Response-Personal%20Chat-yellowgreen) ![CoQA](https://img.shields.io/badge/Generative%20Question%20Answering-CoQA-orange) 
 
 # Pixel-Refining Parallel Mapping Network in the Complex Domain (CRPM-Net) 
 
